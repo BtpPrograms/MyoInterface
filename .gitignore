@@ -1,0 +1,5 @@
+# Removes raw value files used to program gestures
+.dat
+
+# Remove compiled python files
+.pyc
