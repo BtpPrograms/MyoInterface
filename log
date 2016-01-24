@@ -1,3 +1,0 @@
-myo_output_test.py|1 col 1 error| W0611 'myo' imported but unused [pyflakes]
-myo_output_test.py|3 col 1 error| E0602 undefined name 'Myo' [pyflakes]
-myo_output_test.py|5 col 1 C| E302 expected 2 blank lines, found 1 [pep8]
